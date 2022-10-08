@@ -15,7 +15,7 @@ EDUCATION
 
 2001.10 - 2006.03 电子计算机 本科(Dipl.-Ing. FH) Hochschule Mannheim （曼海姆应用技术大学） 	德国 曼海姆
 
-- 主修：软件工程，设计模式，数据库，网络协议，信号处理
+- 主修：软件工程，设计模式，数据库，网络协议，信号处理
 - 参与系课题：GOSSIP，负责开发环境的搭建（SER SIP Proxy），测试评估不同的SIP客户端软件
 - 在GOSSIP项目中 本科毕业论文：“Performant Audio/Video Transmission for a SIP Software”
 
